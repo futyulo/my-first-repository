@@ -1,0 +1,23 @@
+.asteroid1 {
+    color: blue;
+    background: yellow;
+}
+
+.asteroid2 {
+    color: blue;
+    font-weight: bold;
+}
+
+.asteroid3 {
+    border: 1px solid green;
+    font-weight: bold;
+}
+
+.asteroid4 {
+    border: 1px solid green;
+    font-weight: bold;
+}
+
+body {
+    width: 200px;
+}
