@@ -1,0 +1,11 @@
+li {
+    border: 1px solid black;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    padding: 10px;
+}
+
+li:hover {
+    background: orange;
+}
