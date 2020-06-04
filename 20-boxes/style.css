@@ -1,0 +1,32 @@
+.boxes1 {
+    height: 15px;
+    width: 15px;
+    background: blue;
+}
+
+.box1 {
+    border: 1px solid blue;
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.boxes2 {
+    height: 15px;
+    width: 15px;
+    background: purple;
+}
+
+.box2 {
+    border: 1px solid blue;
+    background: orange;
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+body {
+    width: 300px;
+}
